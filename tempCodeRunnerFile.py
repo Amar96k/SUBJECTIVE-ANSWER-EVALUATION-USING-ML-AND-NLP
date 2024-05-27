@@ -1,0 +1,1 @@
+multinomial naive Bayes score
